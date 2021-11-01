@@ -19,9 +19,9 @@
 
 | 脚本                                                         | 介绍                                 | 维护状态 |
 | ------------------------------------------------------------ | ------------------------------------ | -------- |
-| [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？   | 正常     |
-| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本           | 正常     |
-| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | 正常     |
-| [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | 正常     |
-| [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | 正常     |
-| [DNS覆盖](https://github.com/AlanLang/ios_rule_script/tree/main/script/dnsOverwrite) | DNS覆盖                         | 正常     |
+| [知乎助手](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/zhihu) | 使用纯净版知乎是一种怎么样的体验？   | ✅    |
+| [什么值得买](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/smzdm) | 什么值得买签到和去广告脚本           | ✅     |
+| [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | ✅     |
+| [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | ✅     |
+| [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | ✅   |
+| [DNS覆盖](https://github.com/AlanLang/ios_rule_script/tree/main/script/dnsOverwrite) | DNS覆盖 (仅限surge)                  | ✅    |
