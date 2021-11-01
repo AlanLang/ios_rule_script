@@ -5,4 +5,8 @@
 ### Surge
 安装模块
 ```
+https://raw.githubusercontent.com/AlanLang/ios_rule_script/main/script/dnsOverwrite/dnsAutoChange.sgmodule
+```
+```
+https://raw.githubusercontent.com/AlanLang/ios_rule_script/main/script/dnsOverwrite/dnsOverwrite.sgmodule
 ```
