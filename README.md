@@ -25,3 +25,4 @@
 | [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | ✅     |
 | [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | ✅   |
 | [DNS覆盖](https://github.com/AlanLang/ios_rule_script/tree/main/script/dnsOverwrite) | DNS覆盖 (仅限surge)                  | ✅    |
+| [JD比价](https://github.com/AlanLang/ios_rule_script/tree/main/script/jd) | JD比价                  | ✅    |
