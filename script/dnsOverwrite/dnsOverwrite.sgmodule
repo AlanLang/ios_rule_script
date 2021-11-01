@@ -1,0 +1,6 @@
+#!name=DNS覆盖
+#!desc=配合DNS自动修改模块实现在家时自动使用浏览器端的DNS服务
+#!system=ios
+
+[General]
+dns-server = system

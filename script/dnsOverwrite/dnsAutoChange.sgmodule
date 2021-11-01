@@ -1,0 +1,6 @@
+#!name=DNS自动切换
+#!desc=当使用家里无线网时，使用路由器的DNS解析
+#!system=ios
+
+[Script]
+DNS模块切换 = type=event,event-name=network-changed,control-api=1,script-path=https://raw.githubusercontent.com/AlanLang/surge-scripts/main/dnaAutoChange/dnsAutoChange.js
