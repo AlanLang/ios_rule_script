@@ -24,3 +24,4 @@
 | [开屏去广告](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/startup) | 通过脚本去除缓存到本地的APP开屏广告  | 正常     |
 | [叮咚买菜](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/dingdong) | 每日自动签到                         | 正常     |
 | [Fa米家](https://github.com/blackmatrix7/ios_rule_script/tree/master/script/famijia) | 每日自动签到                         | 正常     |
+| [DNS覆盖](https://github.com/AlanLang/ios_rule_script/tree/main/script/dnsOverwrite) | DNS覆盖                         | 正常     |
