@@ -1,0 +1,7 @@
+#!name=快手视频解锁
+#!desc=快手视频解锁
+#!system=ios
+[Script]
+http-response ^http://v2.ksapi003.me:2052/v2/user/getBaseInfo requires-body=1,script-path=https://raw.githubusercontent.com/AlanLang/surge-scripts/main/kuaishou/index.js, tag=快手视频解锁
+[MITM]
+hostname = http://v2.ksapi003.me
