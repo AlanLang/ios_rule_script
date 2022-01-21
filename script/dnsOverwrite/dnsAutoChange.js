@@ -1,4 +1,4 @@
-const ssid = "Alan's House_5G";
+const ssid = "Alan's Home";
 const name = "DNS覆盖";
 let home = $network.wifi.ssid === ssid;
 
